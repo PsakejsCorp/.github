@@ -1,4 +1,4 @@
-# 🚀 [Nombre de la Corporación]
+# 🚀 [PsakejsCorp]
 
 ¡Bienvenidos a **PsakejsCorp**! 🌐 Nuestro objetivo es construir una colección de recursos y proyectos que sigan buenas prácticas en GitHub, con énfasis en compartir el aprendizaje a través de **GitHub Pages** y **repositorios bien estructurados**. 
 
